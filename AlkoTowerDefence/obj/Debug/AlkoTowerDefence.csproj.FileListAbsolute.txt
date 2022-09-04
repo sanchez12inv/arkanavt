@@ -1,0 +1,30 @@
+C:\Users\KrillDes\Desktop\AlkoTowerDefence\AlkoTowerDefence\bin\Debug\Resources\bullets\minigun_bullet.png
+C:\Users\KrillDes\Desktop\AlkoTowerDefence\AlkoTowerDefence\bin\Debug\Resources\enemies\enemy1.png
+C:\Users\KrillDes\Desktop\AlkoTowerDefence\AlkoTowerDefence\bin\Debug\Resources\players\typea_player.png
+C:\Users\KrillDes\Desktop\AlkoTowerDefence\AlkoTowerDefence\bin\Debug\Resources\players\typeb_player.png
+C:\Users\KrillDes\Desktop\AlkoTowerDefence\AlkoTowerDefence\bin\Debug\Resources\players\typec_player.png
+C:\Users\KrillDes\Desktop\AlkoTowerDefence\AlkoTowerDefence\bin\Debug\AlkoTowerDefence.exe.config
+C:\Users\KrillDes\Desktop\AlkoTowerDefence\AlkoTowerDefence\bin\Debug\AlkoTowerDefence.exe
+C:\Users\KrillDes\Desktop\AlkoTowerDefence\AlkoTowerDefence\bin\Debug\AlkoTowerDefence.pdb
+C:\Users\KrillDes\Desktop\AlkoTowerDefence\AlkoTowerDefence\obj\Debug\AlkoTowerDefence.csprojAssemblyReference.cache
+C:\Users\KrillDes\Desktop\AlkoTowerDefence\AlkoTowerDefence\obj\Debug\AlkoTowerDefence.Form1.resources
+C:\Users\KrillDes\Desktop\AlkoTowerDefence\AlkoTowerDefence\obj\Debug\AlkoTowerDefence.Properties.Resources.resources
+C:\Users\KrillDes\Desktop\AlkoTowerDefence\AlkoTowerDefence\obj\Debug\AlkoTowerDefence.csproj.GenerateResource.cache
+C:\Users\KrillDes\Desktop\AlkoTowerDefence\AlkoTowerDefence\obj\Debug\AlkoTowerDefence.csproj.CoreCompileInputs.cache
+C:\Users\KrillDes\Desktop\AlkoTowerDefence\AlkoTowerDefence\obj\Debug\AlkoTowerDefence.exe
+C:\Users\KrillDes\Desktop\AlkoTowerDefence\AlkoTowerDefence\obj\Debug\AlkoTowerDefence.pdb
+C:\Users\limon\OneDrive\Рабочий стол\Курсовая прога\AlkoTowerDefence\AlkoTowerDefence\bin\Debug\Resources\bullets\minigun_bullet.png
+C:\Users\limon\OneDrive\Рабочий стол\Курсовая прога\AlkoTowerDefence\AlkoTowerDefence\bin\Debug\Resources\enemies\enemy1.png
+C:\Users\limon\OneDrive\Рабочий стол\Курсовая прога\AlkoTowerDefence\AlkoTowerDefence\bin\Debug\Resources\players\typea_player.png
+C:\Users\limon\OneDrive\Рабочий стол\Курсовая прога\AlkoTowerDefence\AlkoTowerDefence\bin\Debug\Resources\players\typeb_player.png
+C:\Users\limon\OneDrive\Рабочий стол\Курсовая прога\AlkoTowerDefence\AlkoTowerDefence\bin\Debug\Resources\players\typec_player.png
+C:\Users\limon\OneDrive\Рабочий стол\Курсовая прога\AlkoTowerDefence\AlkoTowerDefence\bin\Debug\AlkoTowerDefence.exe.config
+C:\Users\limon\OneDrive\Рабочий стол\Курсовая прога\AlkoTowerDefence\AlkoTowerDefence\bin\Debug\AlkoTowerDefence.exe
+C:\Users\limon\OneDrive\Рабочий стол\Курсовая прога\AlkoTowerDefence\AlkoTowerDefence\bin\Debug\AlkoTowerDefence.pdb
+C:\Users\limon\OneDrive\Рабочий стол\Курсовая прога\AlkoTowerDefence\AlkoTowerDefence\obj\Debug\AlkoTowerDefence.csprojAssemblyReference.cache
+C:\Users\limon\OneDrive\Рабочий стол\Курсовая прога\AlkoTowerDefence\AlkoTowerDefence\obj\Debug\AlkoTowerDefence.Form1.resources
+C:\Users\limon\OneDrive\Рабочий стол\Курсовая прога\AlkoTowerDefence\AlkoTowerDefence\obj\Debug\AlkoTowerDefence.Properties.Resources.resources
+C:\Users\limon\OneDrive\Рабочий стол\Курсовая прога\AlkoTowerDefence\AlkoTowerDefence\obj\Debug\AlkoTowerDefence.csproj.GenerateResource.cache
+C:\Users\limon\OneDrive\Рабочий стол\Курсовая прога\AlkoTowerDefence\AlkoTowerDefence\obj\Debug\AlkoTowerDefence.csproj.CoreCompileInputs.cache
+C:\Users\limon\OneDrive\Рабочий стол\Курсовая прога\AlkoTowerDefence\AlkoTowerDefence\obj\Debug\AlkoTowerDefence.exe
+C:\Users\limon\OneDrive\Рабочий стол\Курсовая прога\AlkoTowerDefence\AlkoTowerDefence\obj\Debug\AlkoTowerDefence.pdb
